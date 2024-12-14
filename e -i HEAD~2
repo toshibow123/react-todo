@@ -1,0 +1,11 @@
+[33mcommit 68c0f1f222f45e2d3bac5932219d0e8fe11d5cd5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: [toshibow] <[ignitedrex@gmail.com]>
+Date:   Sat Dec 14 14:47:23 2024 +0900
+
+    Add config file to .gitignore
+
+[33mcommit dc55112b72cc05a64c8085d5396acc98c58e0cbf[m
+Author: [toshibow] <[ignitedrex@gmail.com]>
+Date:   Sat Dec 14 14:40:51 2024 +0900
+
+    Add feature for user login

@@ -1,0 +1,19 @@
+body {
+  flex: content;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.container{
+  flex: content;
+  justify-content: center;
+}
+
+.registrationButton{
+  background-color: rgb(224, 217, 217);
+  border-radius: 0%;
+  width: 40px;
+  height: 25px;
+  padding: 0%;
+  border-color: black;
+}
